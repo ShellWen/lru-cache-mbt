@@ -1,6 +1,6 @@
 # 🧠 MoonBit LRU 缓存
 
-[English](https://github.com/ShellWen/lru-cache-mbt/blob/main/README.md) | [简体中文](https://github.com/ShellWen/lru-cache-mbt/blob/main/README_zh_CN.md)
+[English](https://github.com/ShellWen/lru-cache-mbt/blob/master/README.md) | [简体中文](https://github.com/ShellWen/lru-cache-mbt/blob/master/README_zh_CN.md)
 
 [![License](https://img.shields.io/github/license/ShellWen/lru-cache-mbt)](LICENSE)
 
@@ -98,7 +98,7 @@ let value = cache.get({id: 1}) // 返回 Some("键 1 的值")
 
 ## 📜 许可证
 
-本项目遵循 Apache 许可证 2.0 版。详情请参阅 [LICENSE](https://github.com/ShellWen/lru-cache-mbt/blob/main/LICENSE)。
+本项目遵循 Apache 许可证 2.0 版。详情请参阅 [LICENSE](https://github.com/ShellWen/lru-cache-mbt/blob/master/LICENSE)。
 
 ## 📢 联系与支持
 

@@ -1,6 +1,6 @@
 # 🧠 LRU Cache for MoonBit
 
-[English](https://github.com/ShellWen/lru-cache-mbt/blob/main/README.md) | [简体中文](https://github.com/ShellWen/lru-cache-mbt/blob/main/README_zh_CN.md)
+[English](https://github.com/ShellWen/lru-cache-mbt/blob/master/README.md) | [简体中文](https://github.com/ShellWen/lru-cache-mbt/blob/master/README_zh_CN.md)
 
 [![License](https://img.shields.io/github/license/ShellWen/lru-cache-mbt)](LICENSE)
 
@@ -98,7 +98,7 @@ Run `moon doc --serve` to view the API documentation.
 
 ## 📜 License
 
-This project is licensed under the Apache License 2.0. See [LICENSE](https://github.com/ShellWen/lru-cache-mbt/blob/main/LICENSE) for details.
+This project is licensed under the Apache License 2.0. See [LICENSE](https://github.com/ShellWen/lru-cache-mbt/blob/master/LICENSE) for details.
 
 ## 📢 Contact & Support
 
