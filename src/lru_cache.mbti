@@ -1,0 +1,24 @@
+package ShellWen/lru_cache
+
+// Values
+fn new_lru_cache[K : Eq + Hash, V](UInt) -> LruCache[K, V]
+
+// Types and methods
+pub struct LruCache[K, V] {
+  capacity : UInt
+  cache : Map[K, V]
+}
+impl LruCache {
+  capacity[K : Eq + Hash, V](Self[K, V]) -> UInt
+  clear[K : Eq + Hash, V](Self[K, V]) -> Unit
+  get[K : Eq + Hash, V](Self[K, V], K) -> V?
+  has[K : Eq + Hash, V](Self[K, V], K) -> Bool
+  new[K : Eq + Hash, V](UInt) -> Self[K, V]
+  put[K : Eq + Hash, V](Self[K, V], K, V) -> Unit
+  size[K : Eq + Hash, V](Self[K, V]) -> UInt
+}
+
+// Type aliases
+
+// Traits
+
